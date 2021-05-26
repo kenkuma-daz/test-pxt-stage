@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAD//8/M///////P3M3//////9/tzf3//////e/N/f///+/d3c397979793d3P3+v/3v/d/d/f7//O/e3d3u7t797+7u7u7+v/3/7u7u7+7++///vfvv7v77///dzf/u7v3//8/8/+/+////////////////7+7+/////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "forestMonkeyTile"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
