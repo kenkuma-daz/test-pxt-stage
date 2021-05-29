@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-behavior": "github:kenkuma-daz/pxt-behavior#master"
+        "pxt-behavior": "github:kenkuma-daz/pxt-behavior#master",
+        "pxt-stage": "github:kenkuma-daz/pxt-stage#master"
     },
     "files": [
         "main.blocks",
@@ -12,7 +13,6 @@
         "assets.json",
         "tilemap.g.jres",
         "tilemap.g.ts",
-        "stage.ts",
         "images.g.jres",
         "images.g.ts"
     ],
@@ -26,5 +26,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
